@@ -4,7 +4,6 @@
 A Learning-based locomotion controller for quadruped robots. It includes all components needed for training and hardware deployment on DeepRobotics Lite3.
 ## Software architecture
 This repository consists of below directories:
-- rl-robotics: rl training for Lite3 in Isaac Gym sim environment.
 - rsl_rl: a package wrapping RL methods.
 - legged_gym: gym-style environments of quadruped robots.
 
