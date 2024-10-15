@@ -51,7 +51,7 @@ You should assign the path of the network model via `--load_run` and `--checkpoi
 
 ### Run controller in the real-world
 
-Copy your policy file to the project [rl_deploy] https://github.com/DeepRoboticsLab/deeprobotics_rl_deploy.git ,then you can run your reinforcement learning controller in the real world
+Copy your policy file to the project [rl_deploy] https://github.com/DeepRoboticsLab/Lite3_rl_training.git ,then you can run your reinforcement learning controller in the real world
 
 ## Reference
 [legged_gym] https://github.com/leggedrobotics/legged_gym.git
